@@ -1,5 +1,5 @@
 <div align="center">
-  응애 나 애기 은띠 👋
+  <b>응애 나 애기 은띠 👋</b>
 </div>
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=120&section=header&text=Hello,%20World!&fontSize=90&animation=fadeIn)
