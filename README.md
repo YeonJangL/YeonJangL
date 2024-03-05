@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=120&section=header&text=Hello,%20World!&fontSize=90&animation=fadeIn)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeonjang)](https://solved.ac/wke1wke1)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeonjang)](https://solved.ac/yeonjang)
 
 <div align="right">
   
