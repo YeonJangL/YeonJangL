@@ -21,14 +21,14 @@
 
 ![](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeonJangL&count_bg=%239BF854&title_bg=%23000000&icon=theconversation.svg&icon_color=%23FF9421&title=Hello&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 # 📫 Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lej32552002@gmail.com)](mailto:lej32552002@gmail.com)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeonJangL&count_bg=%239BF854&title_bg=%23000000&icon=theconversation.svg&icon_color=%23FF9421&title=Hello&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **YeonJangL/YeonJangL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
