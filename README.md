@@ -8,6 +8,8 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeonjang)](https://solved.ac/profile/yeonjang) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeonJangL&show_icons=true&theme=merko)
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 # 🤔 My Skills
 ### 📶 Platforms & Languages
 ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
